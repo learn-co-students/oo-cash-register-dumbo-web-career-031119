@@ -1,6 +1,7 @@
 class CashRegister
 
-
+def initialize 
+  
 
 
 
