@@ -5,11 +5,10 @@ def initialize(discount=0)
   @discount = discount 
 end 
 
-def total
-  total
+def total(num)
 end 
 
-def add_item
+def add_item(num)
   
 end 
 
