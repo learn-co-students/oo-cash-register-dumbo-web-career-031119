@@ -9,6 +9,9 @@ def total
   total
 end 
 
+def add_item
+  
+end 
 
 
 
